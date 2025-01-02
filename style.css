@@ -6,9 +6,9 @@ canvas {
 p {
 	margin: 0 auto; 
 	position: absolute;
-	font: 16px Verdana;
+	font: 50px Verdana;
 	color: #d11d1d;
-	height: 25px;
+	height: 50px;
 	width: 100%; 
 	top: calc(96% - 12.5px); 
 	left: 0; 
@@ -21,7 +21,7 @@ p a {
 	color: #e46e6e;
 }
 span {
-	font-size: 20px;
+	font-size: 50px;
 }
 p > a:first-of-type {
 	font-size: 300px;
